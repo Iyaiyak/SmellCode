@@ -113,5 +113,8 @@ public class Main {
     }
 }
 
-// Dalam contoh ini, OrderProcessor memiliki tanggung jawab yang terlalu banyak, termasuk memproses pesanan, menampilkan pesanan, menghasilkan invoice, mengirim notifikasi, memperbarui inventaris, dan menghitung keuntungan. Hal ini mengakibatkan kelas OrderProcessor menjadi tidak terfokus dan sulit untuk dipelihara jika terjadi perubahan terkait manajemen pesanan, keuangan, atau inventaris. Oleh karena itu, contoh ini mengilustrasikan "smell code" Change Preventer - Divergent Change.
+/* Dalam contoh ini, OrderProcessor memiliki tanggung jawab yang terlalu banyak, termasuk memproses pesanan, menampilkan pesanan, 
+menghasilkan invoice, mengirim notifikasi, memperbarui inventaris, dan menghitung keuntungan. Hal ini mengakibatkan kelas OrderProcessor menjadi 
+tidak terfokus dan sulit untuk dipelihara jika terjadi perubahan terkait manajemen pesanan, keuangan, atau inventaris. Oleh karena itu, 
+contoh ini mengilustrasikan "smell code" Change Preventer - Divergent Change.*/
 
