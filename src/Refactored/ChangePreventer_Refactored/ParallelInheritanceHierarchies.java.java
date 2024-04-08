@@ -112,5 +112,8 @@ public class Main {
     }
 }
 
-//Dalam contoh ini, kita telah memisahkan hierarki untuk produk elektronik (ElectronicProduct) dan metode pembayaran (PaymentMethod). Masing-masing kelas hanya bertanggung jawab atas satu hal, dan tidak ada ketergantungan langsung antara kedua hierarki kelas tersebut. Hal ini membuat kode menjadi lebih modular, mudah dipahami, dan memudahkan pengembangan di masa depan.
+/*Dalam contoh ini, kita telah memisahkan hierarki untuk produk elektronik (ElectronicProduct) 
+dan metode pembayaran (PaymentMethod). Masing-masing kelas hanya bertanggung jawab atas satu hal, 
+dan tidak ada ketergantungan langsung antara kedua hierarki kelas tersebut. Hal ini membuat kode menjadi lebih modular, 
+mudah dipahami, dan memudahkan pengembangan di masa depan.*/
 
