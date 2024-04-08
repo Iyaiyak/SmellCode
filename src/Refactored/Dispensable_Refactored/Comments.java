@@ -15,5 +15,7 @@ public class Comments {
 }
 
 
-/*Dalam hasil refactoring ini, kita menghapus semua komentar yang tidak relevan atau tidak memberikan informasi yang berguna. Metode calculateSum tetap ada karena memberikan fungsionalitas yang jelas dan berguna dalam kelas ini. Dengan demikian, kita memperbaiki "smell code" terkait dengan komentar yang tidak perlu dalam kelas ini.
+/*Dalam hasil refactoring ini, kita menghapus semua komentar yang tidak relevan atau tidak memberikan informasi yang berguna. 
+Metode calculateSum tetap ada karena memberikan fungsionalitas yang jelas dan berguna dalam kelas ini. 
+Dengan demikian, kita memperbaiki "smell code" terkait dengan komentar yang tidak perlu dalam kelas ini.
 */
