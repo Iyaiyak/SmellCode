@@ -21,5 +21,8 @@ public class PriceValidator {
 	}
 }
 
-//Kode tersebut dapat dianggap sebagai lazy class smell karena kelas Price memiliki sedikit fungsi atau tanggung jawab yang diberikan, yaitu hanya untuk menyimpan nilai harga dan memberikan akses ke nilai tersebut melalui metode getValue(). Sebagai contoh, jika nantinya kelas ini tidak lagi memiliki tanggung jawab tambahan atau metode lain yang relevan, kelas ini menjadi "malas" atau "berlebihan" karena tidak memberikan nilai tambah yang signifikan.
+/*Kode tersebut dapat dianggap sebagai lazy class smell karena kelas Price memiliki sedikit fungsi atau tanggung jawab yang diberikan, 
+yaitu hanya untuk menyimpan nilai harga dan memberikan akses ke nilai tersebut melalui metode getValue(). 
+Sebagai contoh, jika nantinya kelas ini tidak lagi memiliki tanggung jawab tambahan atau metode lain yang relevan, 
+kelas ini menjadi "malas" atau "berlebihan" karena tidak memberikan nilai tambah yang signifikan.*/
 
