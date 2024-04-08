@@ -111,5 +111,6 @@ public class ShoutgunSurgeryRefactored {
     }
 
 /*
- Dalam kode yang sudah direfaktorisasi, operasi-operasi yang berbeda telah dipisahkan ke dalam metode-metode yang terpisah berdasarkan logika dan tanggung jawab masing-masing. Ini membuat kode menjadi lebih mudah dipahami, dipelihara, dan diperbaiki.
+ Dalam kode yang sudah direfaktorisasi, operasi-operasi yang berbeda telah dipisahkan ke dalam metode-metode yang terpisah 
+ berdasarkan logika dan tanggung jawab masing-masing. Ini membuat kode menjadi lebih mudah dipahami, dipelihara, dan diperbaiki.
  */
