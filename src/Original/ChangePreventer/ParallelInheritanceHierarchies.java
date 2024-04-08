@@ -84,6 +84,11 @@ public class PayPalPayment extends Payment {
     }
 }
 
-//Dalam contoh ini, terdapat dua hierarki kelas yang berjalan secara sejajar: hierarki untuk produk elektronik (ElectronicProduct, Laptop, Smartphone) dan hierarki untuk pembayaran (Payment, CreditCardPayment, PayPalPayment). Jika terjadi perubahan pada hierarki salah satu kelas (misalnya, tambah metode pembayaran baru), maka hal ini dapat memengaruhi kelas-kelas pada hierarki lainnya.
+/*Dalam contoh ini, terdapat dua hierarki kelas yang berjalan secara sejajar: hierarki untuk produk elektronik 
+(ElectronicProduct, Laptop, Smartphone) dan hierarki untuk pembayaran (Payment, CreditCardPayment, PayPalPayment). 
+Jika terjadi perubahan pada hierarki salah satu kelas (misalnya, tambah metode pembayaran baru), maka hal ini dapat 
+memengaruhi kelas-kelas pada hierarki lainnya.
 
-//Untuk mengatasi Parallel Inheritance Hierarchies, solusinya adalah dengan mencari cara untuk merancang kelas-kelas agar lebih modular dan tidak saling terkait secara langsung. Salah satu pendekatan yang dapat digunakan adalah dengan menggunakan pola desain seperti Strategy Pattern untuk mengisolasi perubahan dan menghindari ketergantungan langsung antar hierarki kelas.
+Untuk mengatasi Parallel Inheritance Hierarchies, solusinya adalah dengan mencari cara untuk merancang kelas-kelas agar 
+lebih modular dan tidak saling terkait secara langsung. Salah satu pendekatan yang dapat digunakan adalah dengan menggunakan 
+pola desain seperti Strategy Pattern untuk mengisolasi perubahan dan menghindari ketergantungan langsung antar hierarki kelas.*/
