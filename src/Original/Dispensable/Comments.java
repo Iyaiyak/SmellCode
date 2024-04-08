@@ -23,4 +23,5 @@ public class Comments {
         return value1 + Integer.parseInt(value2);
     }
 }
-//Dalam contoh ini, Comments adalah kelas yang menunjukkan "smell code" yang berkaitan dengan komentar, seperti komentar yang terlalu panjang tanpa memberikan nilai tambah yang signifikan.
+//Dalam contoh ini, Comments adalah kelas yang menunjukkan "smell code" yang berkaitan dengan komentar, 
+//seperti komentar yang terlalu panjang tanpa memberikan nilai tambah yang signifikan.
